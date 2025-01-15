@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Earthquake Screen",
   "version": "1.0",
-  "description": "Simulates an earthquake effect inside your browser.",
+  "description": "Earthquake Screen brings a fun and harmless simulation of an earthquake to your current browser tab! Watch as the elements on the page shake and shift to create a playful earthquake effect. It’s a lighthearted way to spice up your browsing experience. Key Features: Simulates an earthquake on the active tab. Non-intrusive and harmless — no impact on your browser or system. Easily disable the effect by clicking the extension icon again or simply refreshing the page. Perfect for pranking friends or adding a bit of fun to your day! Note: This extension does not collect or store any personal data. Just fun, nothing more! 😊",
   "icons": {
     "48": "icons/eqicon.png"
   },
